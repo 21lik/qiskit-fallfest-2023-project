@@ -11,14 +11,11 @@ Started on 10/21/2023 afternoon
 
 Last Updated: 10/23/2023
 
-
-Thank you for considering my submission for the 2023 Qiskit Fall Fest Hackathon.
-
-Feel free to download the files and run through or modify them.
+Feel free to download the Quantum SoundWave Notebook file and run through or modify it. Please do not copy it for your own Hackathon project (but you can certainly take inspiration).
 
 ## Credits:
-Thanks to Qiskit, Numpy, and Pyaudio for the respective modules and documentation.
+Thanks to Qiskit, Numpy, and Pyaudio for the respective modules and documentation. Numpy is used for constructing sine functions, Pyaudio is used for converting them into sound waves, and Qiskit is used for simulating quantum circuits and qubits.
 
-Thanks to Liam and ivan_onys from Stack Overflow for help on generating sine sound waves on Python with Pyaudio.
+Thanks to Liam and ivan_onys from Stack Overflow for help on generating sinusoidal sound waves on Python with Pyaudio.
 
-Thanks to IBM Quantum and the Wisconsin Quantum Computing Club for hosting this event.
+Thanks to IBM Quantum and the Wisconsin Quantum Computing Club for hosting this event. It has been a fun learning experience working on this project, and I hope to continue exploring this field and expanding on the project.
